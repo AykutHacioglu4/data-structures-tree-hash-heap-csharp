@@ -1,0 +1,10 @@
+Max Heap'ten çıkarılan ilk 3 balık:
+====================================
+Balık Adı: Zurna Balığı
+Kelimeler: (Scomberesox, 35, 50, Açık, açılmasından, Akdeniz, Avlanmadıkları, balığı, balığıdır, Balık, beslenir, bir, boyutlarındadır, bu, cm, değeri, deniz, denizlerde, denizlerinde, Ege, En, familyasından, fazla, görülmüştür, herhangi, için, ile, kanalının, ortamala, plankton, saurus), Scomberesocidae, sonra, Süveyş, ticari, tür, ve, yaşayan, yavruları, yoktur, Zurna
+
+Balık Adı: Yaygın Aslan Balığı (Şeytan ateş balığı)
+Kelimeler: 13, 35, adet, adlandırılmıştır, aktif, arasında, aslan, avlandıklarından, balığı, balıklar, balıkları, Benzerlikleri, beslenirler, bilimsel, biliniyor, bir, boyutları, bölgesine, bölgesinin, bu, bulunur, cm'ye, çeşitleri, da, de, değillerdir, denizinde, diken, dolayısıyla, Ege, Endenozya, Geceleri, Genel, gibi, görülürler, gri, gündüzleri, Hint-Pasifik, ile, kabuklular, kadar, karışıtırılırlar, kırmızı, Kızıldeniz'de, Küçük, miles, olan, olarak, olsalar, özgü, pek, Pterois, rengi, Renkleri, sıra, Sırtında, sularında, sularından, ten, tonlarındadır, toplamda, tür, türdür, ulaşabilir, ülkemiz, varyantı, ve, veya, yanı, yaşadıkları, yaygın, Yetişkin, zehirli
+
+Balık Adı: Trança
+Kelimeler: 1, 60-75, adı, Altınkaş, ana, ancak, Antenli, arasında, balıklar, balıklardandır, balıkları, balıktır, besinleridir, Bilimsel, bilinir, bir, biridir, boyutları, Bölgede, caeruleostictus'dur, civarındadır, cm, Çavuş, çıkabilmektedir, de, değeri, denizlere, eden, Ege, Ekonomik, Etçil, familyasından, farklı, göç, ile, iri, isimleri, kafadanbacaklılar, küçük, lezzetli, mercan, meşhurlaşmış, metre, Okyanuslara, olarak, Pagrus, sıcak, Sığ, sularda, sürekli, tek, türdür, türlerden, üzerine, ve, yaşayan, Yetişkin, yüksek

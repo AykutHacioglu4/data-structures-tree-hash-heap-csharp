@@ -1,0 +1,14 @@
+C:\Users\Ceylin\OneDrive\Masaüstü\3.Proje\Project3\bin\Debug\Project3.exe.config
+C:\Users\Ceylin\OneDrive\Masaüstü\3.Proje\Project3\bin\Debug\Project3.exe
+C:\Users\Ceylin\OneDrive\Masaüstü\3.Proje\Project3\bin\Debug\Project3.pdb
+C:\Users\Ceylin\OneDrive\Masaüstü\3.Proje\Project3\obj\Debug\Project3.csproj.AssemblyReference.cache
+C:\Users\Ceylin\OneDrive\Masaüstü\3.Proje\Project3\obj\Debug\Project3.csproj.CoreCompileInputs.cache
+C:\Users\Ceylin\OneDrive\Masaüstü\3.Proje\Project3\obj\Debug\Project3.exe
+C:\Users\Ceylin\OneDrive\Masaüstü\3.Proje\Project3\obj\Debug\Project3.pdb
+C:\Users\Ceylin\OneDrive\Masaüstü\05220001067_AykutHacıoğlu_05230000350_CeylinTor_05220000370_BerkayCanBenli\Project3\bin\Debug\Project3.exe.config
+C:\Users\Ceylin\OneDrive\Masaüstü\05220001067_AykutHacıoğlu_05230000350_CeylinTor_05220000370_BerkayCanBenli\Project3\bin\Debug\Project3.exe
+C:\Users\Ceylin\OneDrive\Masaüstü\05220001067_AykutHacıoğlu_05230000350_CeylinTor_05220000370_BerkayCanBenli\Project3\bin\Debug\Project3.pdb
+C:\Users\Ceylin\OneDrive\Masaüstü\05220001067_AykutHacıoğlu_05230000350_CeylinTor_05220000370_BerkayCanBenli\Project3\obj\Debug\Project3.csproj.AssemblyReference.cache
+C:\Users\Ceylin\OneDrive\Masaüstü\05220001067_AykutHacıoğlu_05230000350_CeylinTor_05220000370_BerkayCanBenli\Project3\obj\Debug\Project3.csproj.CoreCompileInputs.cache
+C:\Users\Ceylin\OneDrive\Masaüstü\05220001067_AykutHacıoğlu_05230000350_CeylinTor_05220000370_BerkayCanBenli\Project3\obj\Debug\Project3.exe
+C:\Users\Ceylin\OneDrive\Masaüstü\05220001067_AykutHacıoğlu_05230000350_CeylinTor_05220000370_BerkayCanBenli\Project3\obj\Debug\Project3.pdb
